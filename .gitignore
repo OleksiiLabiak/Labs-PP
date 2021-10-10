@@ -1,2 +1,7 @@
 README.rst
 __pycache__
+dist/*
+project/*
+tests/*
+poetry.lock
+
