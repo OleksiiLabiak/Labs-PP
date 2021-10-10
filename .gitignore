@@ -1,2 +1,7 @@
 README.rst
 __pycache__
+__dist__
+__project__
+__tests__
+poetry.lock
+pyproject.toml
